@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://swap:swap@cluster0-no9ia.mongodb.net/test",
+  "jwtSecret": "bs_myJWTSecret"
+}
